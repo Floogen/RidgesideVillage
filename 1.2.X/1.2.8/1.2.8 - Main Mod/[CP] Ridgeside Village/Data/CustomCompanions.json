@@ -118,6 +118,13 @@
                   "CustomCompanions": "Spawn 1 PeacefulEnd.CustomCompanions.RidgesideVillage.WhiteCow"
                }
             },
+            {
+               "Position": { "X": 12, "Y": 30 },
+               "Layer": "Back",
+               "SetProperties": {
+                  "CustomCompanions": "Spawn 1 PeacefulEnd.CustomCompanions.RidgesideVillage.WanderingChicken"
+               }
+            },
          ],
 		"When": {
 			"Weather": "Sun, Wind",
@@ -236,6 +243,13 @@
             },
             {
                "Position": { "X": 49, "Y": 106 },
+               "Layer": "Back",
+               "SetProperties": {
+                  "CustomCompanions": null
+               }
+            },
+            {
+               "Position": { "X": 12, "Y": 30 },
                "Layer": "Back",
                "SetProperties": {
                   "CustomCompanions": null
