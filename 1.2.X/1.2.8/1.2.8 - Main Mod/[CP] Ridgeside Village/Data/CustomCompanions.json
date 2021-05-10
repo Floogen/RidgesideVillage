@@ -119,7 +119,7 @@
                }
             },
             {
-               "Position": { "X": 12, "Y": 30 },
+               "Position": { "X": 22, "Y": 27 },
                "Layer": "Back",
                "SetProperties": {
                   "CustomCompanions": "Spawn 1 PeacefulEnd.CustomCompanions.RidgesideVillage.WanderingChicken"
@@ -249,7 +249,7 @@
                }
             },
             {
-               "Position": { "X": 12, "Y": 30 },
+               "Position": { "X": 22, "Y": 27 },
                "Layer": "Back",
                "SetProperties": {
                   "CustomCompanions": null
